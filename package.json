@@ -1,0 +1,13 @@
+{
+  "name": "sumit.github.io",
+  "version": "1.0.0",
+  "description": "Personal portfolio site for GitHub Pages",
+  "private": true,
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
